@@ -1,0 +1,9 @@
+c:\users\nhatt\onedrive\documents\visual studio 2017\Projects\SampleProject\src\SampleProject\bin\Debug\netcoreapp1.0\SampleProject.deps.json
+c:\users\nhatt\onedrive\documents\visual studio 2017\Projects\SampleProject\src\SampleProject\bin\Debug\netcoreapp1.0\SampleProject.runtimeconfig.json
+c:\users\nhatt\onedrive\documents\visual studio 2017\Projects\SampleProject\src\SampleProject\bin\Debug\netcoreapp1.0\SampleProject.runtimeconfig.dev.json
+c:\users\nhatt\onedrive\documents\visual studio 2017\Projects\SampleProject\src\SampleProject\bin\Debug\netcoreapp1.0\SampleProject.dll
+c:\users\nhatt\onedrive\documents\visual studio 2017\Projects\SampleProject\src\SampleProject\obj\Debug\netcoreapp1.0\SampleProject.csprojResolveAssemblyReference.cache
+c:\users\nhatt\onedrive\documents\visual studio 2017\Projects\SampleProject\src\SampleProject\obj\Debug\netcoreapp1.0\SampleProject.AssemblyInfo.cs
+c:\users\nhatt\onedrive\documents\visual studio 2017\Projects\SampleProject\src\SampleProject\bin\Debug\netcoreapp1.0\SampleProject.pdb
+c:\users\nhatt\onedrive\documents\visual studio 2017\Projects\SampleProject\src\SampleProject\obj\Debug\netcoreapp1.0\SampleProject.dll
+c:\users\nhatt\onedrive\documents\visual studio 2017\Projects\SampleProject\src\SampleProject\obj\Debug\netcoreapp1.0\SampleProject.pdb

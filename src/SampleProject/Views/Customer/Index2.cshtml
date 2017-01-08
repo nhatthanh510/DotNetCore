@@ -1,0 +1,12 @@
+﻿@using System.Globalization
+@{
+    
+}
+<cache expires-after="@TimeSpan.FromSeconds(10)">
+    @DateTime.Now.ToString(CultureInfo.InvariantCulture)
+</cache>
+<customer-list></customer-list>
+
+<div>
+    @await Component.InvokeAsync("Banner", new {filter = "a"})
+</div>

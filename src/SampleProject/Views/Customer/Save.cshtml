@@ -1,0 +1,12 @@
+﻿@model CustomerViewModel
+
+<form asp-controller="Customer" asp-action="Save" Method="post">
+    <label asp-for="ContactName"></label><input asp-for="ContactName" />
+    <br />
+    <label asp-for="CompanyName"></label><input asp-for="CompanyName" />
+    <br />
+    <label asp-for="City"></label><input asp-for="City" />
+    <br />
+    <label asp-for="Country"></label><input asp-for="Country" />
+    <input type="submit" value="Submit" />
+</form>

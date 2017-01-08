@@ -1,0 +1,46 @@
+﻿@*
+  This is the comment    
+*@
+@{
+    var a = 5;
+    var b = 10;
+
+    var number = new List<int>() {1, 2, 3, 4, 5};
+}
+<html>
+<head>
+    <title>Razor view</title>
+    <style>
+        .red {
+            color: red;
+        }
+        .blue {color: blue;}
+    </style>
+</head>
+<body>
+<div>
+    @{
+        var cssClass = b % a == 0 ? "red" : "blue";
+    }
+    <div class="@cssClass">This is a style div</div>
+    @a
+    <br/>
+    @b
+    <br/>
+    @for (int i = 0; i < number.Count; i++)
+    {
+        @number[i]
+        ;
+    }
+    @foreach (var item in number)
+    {
+        @item
+    }
+    @if (true)
+    {
+        var total = a + b;
+        @total
+    }
+</div>
+</body>
+</html>
